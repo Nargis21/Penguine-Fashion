@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.heading-1{
+    color: #FABE4C;
+    font-size: 1.5em;
+    font-weight: 500;
+
+}
+.heading-2{
+    color: #363958;
+    font-size: 1.5em;
+    font-weight: 500;
+
+}
+.button{
+    color: white;
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 10px;
+    border: none;
+    width: 170px;
+    height: 60px;  
+}
+.design{
+    background: #F1F1F1;
+border-radius: 20px;
+}
+.radius{
+    border-radius: 20px;
+}
+.color{
+    color: #363958;
+    font-weight: 700;
+}
+.price{
+    color:#FABE4C; 
+    font-weight: 600;
+}
